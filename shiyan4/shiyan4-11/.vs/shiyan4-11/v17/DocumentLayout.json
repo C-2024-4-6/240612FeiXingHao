@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\shiyan\\shiyan4\\shiyan4-11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25643A87-E51A-4658-985B-D7EBF3C36389}|shiyan4-11\\shiyan4-11.vcxproj|D:\\shiyan\\shiyan4\\shiyan4-11\\shiyan4-11\\shiyan4-11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25643A87-E51A-4658-985B-D7EBF3C36389}|shiyan4-11\\shiyan4-11.vcxproj|solutionrelative:shiyan4-11\\shiyan4-11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "shiyan4-11.cpp",
+              "DocumentMoniker": "D:\\shiyan\\shiyan4\\shiyan4-11\\shiyan4-11\\shiyan4-11.cpp",
+              "RelativeDocumentMoniker": "shiyan4-11\\shiyan4-11.cpp",
+              "ToolTip": "D:\\shiyan\\shiyan4\\shiyan4-11\\shiyan4-11\\shiyan4-11.cpp",
+              "RelativeToolTip": "shiyan4-11\\shiyan4-11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T09:55:26.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

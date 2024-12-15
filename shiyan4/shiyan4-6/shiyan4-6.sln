@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shiyan4-6", "shiyan4-6\shiyan4-6.vcxproj", "{10F45C02-EAD1-4D92-B758-DFAC97B72763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10F45C02-EAD1-4D92-B758-DFAC97B72763}.Debug|x64.ActiveCfg = Debug|x64
+		{10F45C02-EAD1-4D92-B758-DFAC97B72763}.Debug|x64.Build.0 = Debug|x64
+		{10F45C02-EAD1-4D92-B758-DFAC97B72763}.Debug|x86.ActiveCfg = Debug|Win32
+		{10F45C02-EAD1-4D92-B758-DFAC97B72763}.Debug|x86.Build.0 = Debug|Win32
+		{10F45C02-EAD1-4D92-B758-DFAC97B72763}.Release|x64.ActiveCfg = Release|x64
+		{10F45C02-EAD1-4D92-B758-DFAC97B72763}.Release|x64.Build.0 = Release|x64
+		{10F45C02-EAD1-4D92-B758-DFAC97B72763}.Release|x86.ActiveCfg = Release|Win32
+		{10F45C02-EAD1-4D92-B758-DFAC97B72763}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A33CD958-27F2-4420-9AD5-EBDE3CBAA64A}
+	EndGlobalSection
+EndGlobal

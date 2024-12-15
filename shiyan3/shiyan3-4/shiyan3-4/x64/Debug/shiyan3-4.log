@@ -1,0 +1,3 @@
+﻿  shiyan3-4.cpp
+D:\shiyan\shiyan3\shiyan3-4\shiyan3-4\shiyan3-4.cpp(11,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  shiyan3-4.vcxproj -> D:\shiyan\shiyan3\shiyan3-4\x64\Debug\shiyan3-4.exe

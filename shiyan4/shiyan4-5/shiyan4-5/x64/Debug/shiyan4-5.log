@@ -1,0 +1,4 @@
+﻿  shiyan4-5.cpp
+D:\shiyan\shiyan4\shiyan4-5\shiyan4-5\shiyan4-5.cpp(5,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\shiyan\shiyan4\shiyan4-5\shiyan4-5\shiyan4-5.cpp(6,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  shiyan4-5.vcxproj -> D:\shiyan\shiyan4\shiyan4-5\x64\Debug\shiyan4-5.exe
